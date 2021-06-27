@@ -4,6 +4,7 @@
     <list default="true" id="812aab7f-3afc-40b5-92e1-28acf611307d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yk/algorithm/test/LruTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yk/algorithm/test/LruTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,11 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uWhy6ku9cGTTyQbu0EtfPR4ULT" />
@@ -42,10 +48,17 @@
       <option name="presentableId" value="Default" />
       <updated>1624787503576</updated>
       <workItem from="1624787504741" duration="91000" />
+      <workItem from="1624787628448" duration="401000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1624787889050">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state x="575" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/44.23.1396.877@44.23.1396.877" timestamp="1624787889050" />
   </component>
 </project>

@@ -1,5 +1,7 @@
 package com.yk.algorithm.test;
 
+import com.yk.algorithm.main.LruCache;
+
 /**
  * @author ke.yang1
  * @description
@@ -7,6 +9,8 @@ package com.yk.algorithm.test;
  */
 public class LruTest {
     public static void main(String[] args) {
+        LruCache lruCache = new LruCache<>(100);
+        lruCache.put("str",1);
 
     }
 
