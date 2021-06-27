@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb5927a1-e86d-4f6a-8719-93b168a1d6b7" name="Default Changelist" comment="" />
+    <list default="true" id="cb5927a1-e86d-4f6a-8719-93b168a1d6b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -53,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624765693257</updated>
-      <workItem from="1624765694929" duration="357000" />
+      <workItem from="1624765694929" duration="1070000" />
     </task>
     <servers />
   </component>
@@ -63,5 +65,11 @@
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>GOPROXY=https://goproxy.cn,direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="54" key="SettingsEditor" timestamp="1624766954353">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="200" y="54" key="SettingsEditor/45.23.1395.877@45.23.1395.877" timestamp="1624766954353" />
   </component>
 </project>
