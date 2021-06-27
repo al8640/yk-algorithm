@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/yk-algorithm.iml" filepath="$PROJECT_DIR$/yk-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yk-algorithm.iml" filepath="$PROJECT_DIR$/.idea/yk-algorithm.iml" />
     </modules>
   </component>
 </project>
