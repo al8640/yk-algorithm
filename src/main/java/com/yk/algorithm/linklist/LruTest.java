@@ -1,6 +1,6 @@
-package com.yk.algorithm.test;
+package com.yk.algorithm.linklist;
 
-import com.yk.algorithm.main.LruCache;
+import com.yk.algorithm.linklist.LruCache;
 
 /**
  * @author ke.yang1

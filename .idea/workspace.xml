@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812aab7f-3afc-40b5-92e1-28acf611307d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yk/algorithm/linklist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yk/algorithm/linklist/practice/ReverseLinkList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yk/algorithm/test/LruTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yk/algorithm/test/LruTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/yk-algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yk-algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yk/algorithm/main/LruCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yk/algorithm/linklist/LruCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yk/algorithm/test/LruTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yk/algorithm/linklist/LruTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +18,13 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -37,6 +47,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,17 +63,39 @@
       <option name="presentableId" value="Default" />
       <updated>1624787503576</updated>
       <workItem from="1624787504741" duration="91000" />
-      <workItem from="1624787628448" duration="401000" />
+      <workItem from="1624787628448" duration="808000" />
+      <workItem from="1624805604081" duration="1000" />
+      <workItem from="1625581385699" duration="1404000" />
     </task>
+    <task id="LOCAL-00001" summary="feat 新增测试类">
+      <created>1624788095988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624788095988</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat 新增测试类" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat 新增测试类" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="561" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1625582242876">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="561" y="158" key="#com.intellij.ide.util.MemberChooser/48.23.1392.877@48.23.1392.877" timestamp="1625582242876" />
     <state x="575" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1624787889050">
       <screen x="44" y="23" width="1396" height="877" />
     </state>
     <state x="575" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/44.23.1396.877@44.23.1396.877" timestamp="1624787889050" />
+    <state x="326" y="173" key="Vcs.Push.Dialog.v2" timestamp="1624788157012">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state x="326" y="173" key="Vcs.Push.Dialog.v2/44.23.1396.877@44.23.1396.877" timestamp="1624788157012" />
   </component>
 </project>

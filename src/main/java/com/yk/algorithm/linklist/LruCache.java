@@ -1,7 +1,6 @@
-package com.yk.algorithm.main;
+package com.yk.algorithm.linklist;
 
 import java.util.HashMap;
-import java.util.Objects;
 
 /**
  * @author ke.yang1
