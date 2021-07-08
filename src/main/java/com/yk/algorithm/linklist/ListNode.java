@@ -5,11 +5,11 @@ package com.yk.algorithm.linklist;
  * @description
  * @date 2021/7/6 10:36 下午
  */
-public class Node {
-    private int val;
-    private Node next;
+public class ListNode {
+    public int val;
+    public ListNode next;
 
-    public Node(int val, Node next) {
+    public ListNode(int val, ListNode next) {
         this.val = val;
         this.next = next;
     }
