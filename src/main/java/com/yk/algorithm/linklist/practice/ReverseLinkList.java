@@ -4,7 +4,7 @@ import com.yk.algorithm.linklist.ListNode;
 
 /**
  * @author ke.yang1
- * @description
+ * @description 双指针解法 以及递归解法
  * @date 2021/7/6 10:35 下午
  */
 public class ReverseLinkList {
