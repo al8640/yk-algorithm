@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812aab7f-3afc-40b5-92e1-28acf611307d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/yk/algorithm/main/hot100/Question5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/yk/algorithm/test/LruTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yk/algorithm/test/LruTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,13 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -25,7 +32,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uWhy6ku9cGTTyQbu0EtfPR4ULT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,6 +45,31 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Question5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yk.algorithm.main.hot100.Question5" />
+      <module name="yk-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yk.algorithm.main.hot100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Question5" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,6 +83,7 @@
       <updated>1624787503576</updated>
       <workItem from="1624787504741" duration="91000" />
       <workItem from="1624787628448" duration="401000" />
+      <workItem from="1664942267150" duration="4467000" />
     </task>
     <servers />
   </component>
@@ -56,9 +91,33 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="575" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1624787889050">
-      <screen x="44" y="23" width="1396" height="877" />
+    <state x="576" y="317" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1664942285746">
+      <screen x="0" y="0" width="1440" height="852" />
     </state>
-    <state x="575" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/44.23.1396.877@44.23.1396.877" timestamp="1624787889050" />
+    <state x="576" y="317" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.852@0.0.1440.852" timestamp="1664942285746" />
+    <state x="412" y="169" key="FileChooserDialogImpl" timestamp="1664942304703">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="412" y="169" key="FileChooserDialogImpl/0.0.1440.852@0.0.1440.852" timestamp="1664942304703" />
+    <state width="1344" height="200" key="GridCell.Tab.0.bottom" timestamp="1664945863110">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1344" height="200" key="GridCell.Tab.0.bottom/0.0.1440.852@0.0.1440.852" timestamp="1664945863110" />
+    <state width="1344" height="200" key="GridCell.Tab.0.center" timestamp="1664945863110">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1344" height="200" key="GridCell.Tab.0.center/0.0.1440.852@0.0.1440.852" timestamp="1664945863110" />
+    <state width="1344" height="200" key="GridCell.Tab.0.left" timestamp="1664945863110">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1344" height="200" key="GridCell.Tab.0.left/0.0.1440.852@0.0.1440.852" timestamp="1664945863110" />
+    <state width="1344" height="200" key="GridCell.Tab.0.right" timestamp="1664945863110">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1344" height="200" key="GridCell.Tab.0.right/0.0.1440.852@0.0.1440.852" timestamp="1664945863110" />
+    <state x="210" y="3" key="SettingsEditor" timestamp="1664942991182">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="210" y="3" key="SettingsEditor/0.0.1440.852@0.0.1440.852" timestamp="1664942991182" />
   </component>
 </project>
