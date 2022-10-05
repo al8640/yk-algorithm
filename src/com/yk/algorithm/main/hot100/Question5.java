@@ -4,8 +4,14 @@ import sun.nio.cs.ext.MacHebrew;
 
 /**
  * @author al864
+ * @description 求最长回文子串
  */
 public class Question5 {
+    /**
+     * 暴力破解
+     * @param s
+     * @return
+     */
     public String longestPalindrome1(String s) {
         int len = s.length();
         if(len < 2){
@@ -36,6 +42,11 @@ public class Question5 {
         return true;
     }
 
+    /**
+     * 动态规划
+     * @param s
+     * @return
+     */
     public String longestPalindrome2(String s) {
         int len = s.length();
         if(len < 2){
@@ -64,6 +75,11 @@ public class Question5 {
         return s.substring(begin,begin+maxLen);
     }
 
+    /**
+     * 中心扩展法
+     * @param s
+     * @return
+     */
     public String longestPalindrome3(String s) {
         int len = s.length();
         if(len < 2){

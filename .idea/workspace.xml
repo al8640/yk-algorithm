@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812aab7f-3afc-40b5-92e1-28acf611307d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/yk/algorithm/main/hot100/Question5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yk/algorithm/main/hot100/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yk/algorithm/main/hot100/Question5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,7 @@
       <updated>1624787503576</updated>
       <workItem from="1624787504741" duration="91000" />
       <workItem from="1624787628448" duration="401000" />
-      <workItem from="1664942267150" duration="4467000" />
+      <workItem from="1664942267150" duration="5400000" />
     </task>
     <servers />
   </component>
